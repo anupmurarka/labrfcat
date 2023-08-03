@@ -1,6 +1,6 @@
 ## Controlling a Minka Aire fan using rfcat
 ### Forked and edited to support an earlier model of Minka fans.  WIP as of 2023-08-01.
-### Original repo at ![idatum/labrfcat](https://github.com/idatum/labrfcat)
+### Original repo at [idatum/labrfcat](https://github.com/idatum/labrfcat)
 
 SDR Hardware: [HackRF](https://greatscottgadgets.com/yardstickone/)
 Minka Remote 1: model TR241A [FCC ID KUJCE10411](https://fccid.io/KUJCE10411)
