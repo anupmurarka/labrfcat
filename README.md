@@ -1,4 +1,12 @@
 ## Controlling a Minka Aire fan using rfcat
+### Forked and edited to support an earlier model of Minka fans.  WIP as of 2023-08-01.
+### Original repo at ![idatum/labrfcat](https://github.com/idatum/labrfcat)
+
+SDR Hardware: [HackRF](https://greatscottgadgets.com/yardstickone/)
+Minka Remote 1: model TR241A [FCC ID KUJCE10411](https://fccid.io/KUJCE10411)
+Minka Remote 2: model TR____
+
+------- Original README.md ----------
 ### Python code to control a Minka ceiling fan using a [Yard Stick One](https://greatscottgadgets.com/yardstickone/) and [rflib](https://github.com/atlas0fd00m/rfcat) module to simulate the Minka remote control (model TR110A, [FCC ID KUJCE10007](https://fccid.io/KUJCE10007)).
 ![Minka Aire remote](assets/images/minka_remote.png)
 
